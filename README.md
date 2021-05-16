@@ -1,2 +1,2 @@
 # PSOLC
-Article codes with the title "Particle swarm optimization with an enhanced learning strategy and crossover operator"
+Data and codes for the paper entitled "Particle swarm optimization with an enhanced learning strategy and crossover operator"
